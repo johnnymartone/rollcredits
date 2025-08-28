@@ -211,7 +211,7 @@ export default function MovieIdentificationApp() {
         <nav className="max-w-screen-xl mx-auto px-4 py-3 flex items-center justify-between">
           <div className="flex items-center space-x-6">
             <Film className="h-5 w-5" />
-            <span className="text-sm font-black">RollCredits</span>
+            <span className="text-sm font-black">Cueit</span>
           </div>
           <div className="flex items-center space-x-4">
             <button className="text-sm text-gray-500 hover:text-gray-800">
@@ -239,7 +239,7 @@ export default function MovieIdentificationApp() {
                 className="flex flex-col items-center"
               >
                 <Film className="h-16 w-16 text-black mb-4" />
-                <h1 className="text-2xl font-semibold tracking-tight">RollCredits</h1>
+                <h1 className="text-2xl font-semibold tracking-tight">Cueit</h1>
               </motion.div>
             </motion.div>
           )}
